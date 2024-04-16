@@ -118,14 +118,24 @@ html {
   border-color: rgb(2, 255, 86);
 }
 
-        <li class="dropdown">
-            <a href="javascript:void(0)" class="dropbtn">Design</a>
-            <div class="dropdown-content">
-                <a href="#">Web Design</a>
-                <a href="#">App Design</a>
-                <a href="#">Graphic Design</a>
-            </div>
-        </li>
+    li a,
+.dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover,
+.dropdown:hover .dropbtn {
+    background-color: #c85250;
+    transition: all 0.5s ease;
+}
+
+li.dropdown {
+    display: inline-block;
+}
 
 .dropdown-content {
     display: none;
