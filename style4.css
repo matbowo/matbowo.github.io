@@ -131,7 +131,7 @@ li a:hover,
 .dropdown:hover .dropbtn {
     background-color: #c85250;
     transition: all 0.5s ease;
-    border-radius: 40px;
+    border-radius: 20px;
 }
 
 li.dropdown {
