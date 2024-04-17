@@ -158,7 +158,7 @@ li.dropdown {
 
 .dropdown-content a:hover {
     background-color: #f85f5f;
-  border-radius: 40px;
+  border-radius: 20px;
 }
 
 .dropdown:hover .dropdown-content {
