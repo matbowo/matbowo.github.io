@@ -50,7 +50,7 @@ html {
   border-color: rgb(252, 6, 6);
 }
 .li-navbar1:hover{
-  color: green;
+  color: black;
   transition: .5s ease-in-out;
   transition-delay: .1s;
   border-radius: 20px;
