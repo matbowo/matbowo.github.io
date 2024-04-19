@@ -99,6 +99,14 @@ html {
   height: 87%;
   border-radius: 50px;
 }
+ .img-content2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  border-radius: 50px;
+}
 
 .container-footer {
   height: 100px;
