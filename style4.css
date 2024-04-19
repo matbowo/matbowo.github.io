@@ -147,7 +147,7 @@ li a:hover,
 .dropdown:hover .dropbtn {
     background-color: #c85250;
     transition: all 0.5s ease;
-    border-radius: 8px;
+    border-radius: 3px;
 }
 
 li.dropdown {
@@ -174,7 +174,7 @@ li.dropdown {
 
 .dropdown-content a:hover {
     background-color: #f85f5f;
-  border-radius: 8px;
+  border-radius: 3px;
 }
 
 .dropdown:hover .dropdown-content {
